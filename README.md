@@ -2,9 +2,10 @@
 
 [![VHDL](https://img.shields.io/badge/VHDL-93C572?style=for-the-badge&logo=vhdl&logoColor=black)](https://vhdl.com)
 [![FPGA](https://img.shields.io/badge/FPGA-F7DF1E?style=for-the-badge&logo=xilinx&logoColor=black)](https://www.xilinx.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Hardware module implementing a configurable **FIR (Finite Impulse Response) filter** in VHDL. Reads 8-bit data from memory, applies either 3-tap or 5-tap differential filtering with runtime coefficients, and writes saturated results back to memory. Complete course project with specification and 14-page technical report (Italian).
+Hardware module implementing a configurable **FIR (Finite Impulse Response) filter** in VHDL. 
+Reads 8-bit data from memory, applies either 3-tap or 5-tap differential filtering with runtime coefficients, and writes saturated results back to memory. 
+Complete course project with specification and 14-page technical report (Italian).
 
 ## Documentation
 
